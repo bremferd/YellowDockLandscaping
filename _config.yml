@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal
-plugins:
+plugins: jekyll-remote-theme
 title: Yellow Dock Landscaping
 description: Ecological sanctuaries.
 show_downloads: false
